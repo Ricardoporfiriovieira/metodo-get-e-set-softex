@@ -1,0 +1,1 @@
+# metodo-get-e-set-softex
